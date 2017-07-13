@@ -1,0 +1,12 @@
+{
+    "name": "dexterliu/apiutil",
+    "description": "Utility for API",
+    "authors": [
+        {
+            "name": "dexterliu",
+            "email": "dexterliu1214@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
